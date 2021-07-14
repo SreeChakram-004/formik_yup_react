@@ -1,2 +1,2 @@
-# formik_yup_react
-Created with CodeSandbox
+formik_yup_react
+# https://csb-p4it3.netlify.app/
